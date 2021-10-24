@@ -1,10 +1,12 @@
-<h1>Livro receitas</h1>
+# Livro receitas :man_cook:
 
-Olá! Bem vido ao meu livro de receitas
+Olá! Bem vido ao meu livro de receitas :wave:
 
-<h6>Strogonoff de frango</h6>
+- Strogonoff de frango
 
-<h6>Pavê</h6>
+- Pavê
+
+
 
 
 
