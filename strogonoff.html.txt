@@ -1,0 +1,16 @@
+<h1>Strognoff de Frango</h1>
+
+<h3>Ingredientes</h3>
+
+<h2>1 quilo de peito de frango</h2>
+<h2>1 tablete de caldo de galinha</h2>
+<h2>3 colheres de sopa de óleo</h2>
+<h2>2 latas de creme de leite de tomate</h2>
+
+<h3>Modo de preparo</h3>
+
+<h2>1. Em uma panela a fogo médio, acrescente...</h2>
+<h2>Assim coloque o frango picado ...</h2>
+<h2>Abaixe o fogo e coloque ...</h2>
+
+
